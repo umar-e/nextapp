@@ -18,7 +18,7 @@ export default async function Home() {
         px-2 py-1 rounded"
           href="/new"
         >
-          New
+          New Todo
         </Link>
       </header>
       <ul className="pl-4">
